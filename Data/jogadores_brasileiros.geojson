@@ -4,7 +4,7 @@
         "confederacao": "Confederação Brasileira de Futebol",
         "confederacao_sigla": "CBF",
         "confederacao_icon": "",
-        "bandeira_pais": "",
+        "bandeira_pais": "https://defaltentretenimento.github.io/assets/bandeiranacionalbrasil_.jpg",
         "tecnico": "Adenor 'Tite' Bacchi",
         "jogadores": [
             {   
