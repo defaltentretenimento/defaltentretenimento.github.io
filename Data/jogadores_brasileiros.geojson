@@ -1126,20 +1126,20 @@
                 "posicao": ["ATA", "SA"] 
             },
             {   
-                "id": "",
-                "nome": "",
-                "nome_completo": "",
+                "id": "71",
+                "nome": "Allan",
+                "nome_completo": "Allan Marques Loureiro",
                 "foto": "",
-                "altura": "",
-                "idade": "",
-                "dt_nasc": "",
-                "qtd_jogos": 0,
-                "gols_selecao": "",
+                "altura": 1.75,
+                "idade": 31,
+                "dt_nasc": "08/01/1991",
+                "qtd_jogos": 10,
+                "gols_selecao": 0,
                 "assists_selecao": 0,
-                "pe": "",
-                "clube": "",
-                "campeonato": "",
-                "posicao": [] 
+                "pe": "Direito",
+                "clube": "Everton",
+                "campeonato": "Premier League",
+                "posicao": ["VOL", "MC"] 
             }
 
         ]
