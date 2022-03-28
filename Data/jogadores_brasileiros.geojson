@@ -1132,5 +1132,37 @@
         "clube": "Everton",
         "campeonato": "Premier League",
         "posicao": ["VOL", "MC"] 
+    },
+    {   
+        "id": "72",
+        "nome": "Renato Augusto",
+        "nome_completo": "Renato Soares de Oliveira Augusto",
+        "foto": "https://defaltentretenimento.github.io/assets/fotos_jogadores/Renato_Augusto.jpg",
+        "altura": 1.86,
+        "idade": 34,
+        "dt_nasc": "08/02/1988",
+        "qtd_jogos": 33,
+        "gols_selecao": 6,
+        "assists_selecao": 2,
+        "pe": "Direito",
+        "clube": "Corinthians",
+        "campeonato": "Brasileiro A",
+        "posicao": ["MC", "MEI", "VOL", "SA"] 
+    },
+    {
+        "id": "73",
+        "nome": "Paulinho",
+        "nome_completo": "José Paulo Bezerra Maciel Júnior",
+        "foto": "https://defaltentretenimento.github.io/assets/fotos_jogadores/Paulinho.jpg",
+        "altura": 1.83,
+        "idade": 33,
+        "dt_nasc": "25/07/1988",
+        "qtd_jogos": 56,
+        "gols_selecao": 13,
+        "assists_selecao": 10,
+        "pe": "Direito",
+        "clube": "Corinthians",
+        "campeonato": "Brasileiro A",
+        "posicao": ["MC", "VOL", "MEI"] 
     }
 ]
