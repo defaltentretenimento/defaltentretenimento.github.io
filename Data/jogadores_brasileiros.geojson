@@ -1308,5 +1308,21 @@
         "clube": "Benfica",
         "campeonato": "Liga de Portugal",
         "posicao": ["LTD", "MD"] 
+    },
+    {
+        "id": "83",
+        "nome": "Marcos Leonardo",
+        "nome_completo": "Marcos Leonardo Santos Almeida",
+        "foto": "https://defaltentretenimento.github.io/assets/fotos_jogadores/Marcos_Leonardo.jpg",
+        "altura": 1.74,
+        "idade": 19,
+        "dt_nasc": "02/05/2003",
+        "qtd_jogos": 0,
+        "gols_selecao": 0,
+        "assists_selecao": 0,
+        "pe": "Direito",
+        "clube": "Santos",
+        "campeonato": "Brasileiro A",
+        "posicao": ["ATA", "SA"] 
     }
 ]
