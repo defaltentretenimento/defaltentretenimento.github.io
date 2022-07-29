@@ -107,7 +107,7 @@
         "gols_selecao": 0,
         "assists_selecao": 0,
         "pe": "Direito",                
-        "clube": "Athletico PR",
+        "clube": "Flamengo",
         "campeonato": "Brasileiro A",
         "posicao": ["GOL"] 
     },
@@ -187,9 +187,9 @@
         "gols_selecao": 8,
         "assists_selecao": 21,
         "pe": "Direito",                
-        "clube": "Barcelona",
-        "campeonato": "La Liga",
-        "posicao": ["LTD", "VOL", "MEI"] 
+        "clube": "Pumas",
+        "campeonato": "Liga Mexicana",
+        "posicao": ["LTD", "VOL", "MEI", "MD"] 
     },
     {   
         "id": "13",
@@ -617,8 +617,8 @@
         "gols_selecao": 0,
         "assists_selecao": 0,
         "pe": "Direito",
-        "clube": "Sevilla",
-        "campeonato": "La Liga",
+        "clube": "Aston Villa",
+        "campeonato": "Premier League",
         "posicao": ["ZAG"] 
     },
     {   
@@ -745,9 +745,9 @@
         "gols_selecao": 0,
         "assists_selecao": 0,
         "pe": "Direito",
-        "clube": "Corinthians",
-        "campeonato": "Brasileiro A",
-        "posicao": ["ZAG"] 
+        "clube": "Benfica",
+        "campeonato": "Liga de Portugal",
+        "posicao": ["ZAG", "LTD"] 
     },
     {   
         "id": "48",
@@ -777,8 +777,8 @@
         "gols_selecao": 3,
         "assists_selecao": 2,
         "pe": "Esquerdo",
-        "clube": "Leeds United",
-        "campeonato": "Premier League",
+        "clube": "Barcelona",
+        "campeonato": "La Liga",
         "posicao": ["PTD", "MD"] 
     },
     {   
@@ -841,7 +841,7 @@
         "gols_selecao": 14,
         "assists_selecao": 5,
         "pe": "Direito",
-        "clube": "Everton",
+        "clube": "Tottenham",
         "campeonato": "Premier League",
         "posicao": ["SA", "ATA", "PTE", "PTD"] 
     },
@@ -937,7 +937,7 @@
         "gols_selecao": 19,
         "assists_selecao": 13,
         "pe": "Direito",
-        "clube": "Manchester City",
+        "clube": "Arsenal",
         "campeonato": "Premier League",
         "posicao": ["ATA", "SA", "PTD", "PTE"] 
     },
@@ -969,8 +969,8 @@
         "gols_selecao": 3,
         "assists_selecao": 4,
         "pe": "Direito",
-        "clube": "Benfica",
-        "campeonato": "Liga de Portugal",
+        "clube": "Flamengo",
+        "campeonato": "Brasileiro A",
         "posicao": ["PTE", "SA", "PTD"] 
     },
     {   
@@ -985,8 +985,8 @@
         "gols_selecao": 1,
         "assists_selecao": 1,
         "pe": "Esquerdo",
-        "clube": "Shaktar Donetsk",
-        "campeonato": "Campeonato Ucraniano",
+        "clube": "Benfica",
+        "campeonato": "Liga de Portugal",
         "posicao": ["PTE", "PTD", "SA"] 
     },
     {   
@@ -1209,8 +1209,8 @@
         "gols_selecao": 2,
         "assists_selecao": 5,
         "pe": "Direito",
-        "clube": "Manchester City",
-        "campeonato": "Premier League",
+        "clube": "Athletico PR",
+        "campeonato": "Brasileiro A",
         "posicao": ["VOL", "MC", "ZAG"] 
     },
     {
@@ -1241,8 +1241,8 @@
         "gols_selecao": 0,
         "assists_selecao": 0,
         "pe": "Direito",
-        "clube": "Flamengo",
-        "campeonato": "Brasileiro A",
+        "clube": "Fulham",
+        "campeonato": "Premier League",
         "posicao": ["MC", "VOL", "MEI"] 
     },
     {
@@ -1289,8 +1289,8 @@
         "gols_selecao": 1,
         "assists_selecao": 0,
         "pe": "Esquerdo",
-        "clube": "Real Sociedad",
-        "campeonato": "La Liga",
+        "clube": "Paris Saint Germain",
+        "campeonato": "Ligue 1",
         "posicao": ["MC", "VOL", "MEI"] 
     },
     {
