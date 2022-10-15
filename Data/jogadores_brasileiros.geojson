@@ -1340,5 +1340,21 @@
         "clube": "Athletico PR",
         "campeonato": "Brasileiro A",
         "posicao": ["ATA", "SA", "PTD", "PTE"] 
+    },
+    {
+        "id": "85",
+        "nome": "Gustavo Scarpa",
+        "nome_completo": "Gustavo Henrique Furtado Scarpa",
+        "foto": "https://defaltentretenimento.github.io/assets/fotos_jogadores/Gustavo_Scarpa.jpg",
+        "altura": 1.77,
+        "idade": 28,
+        "dt_nasc": "05/01/1994",
+        "qtd_jogos": 1,
+        "gols_selecao": 0,
+        "assists_selecao": 0,
+        "pe": "Esquerdo",
+        "clube": "Palmeiras",
+        "campeonato": "Brasileiro A",
+        "posicao": ["MEI", "SA", "MC", "MD", "ME"] 
     }
 ]
