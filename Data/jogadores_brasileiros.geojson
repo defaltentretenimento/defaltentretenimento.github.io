@@ -412,7 +412,7 @@
         "pe": "Direito",
         "clube": "Al Ahli",
         "campeonato": "Saudi Pro League",
-        "posicao": ["ZAG", "LTD"] 
+        "posicao": ["ZAG", "LTD", "VOL"] 
     },
     {   
         "id": "49",
@@ -428,7 +428,7 @@
         "pe": "Esquerdo",
         "clube": "Barcelona",
         "campeonato": "La Liga",
-        "posicao": ["PTD", "MD", "PTE", "MEI", "SA", "ME"] 
+        "posicao": ["PTD", "MD", "PTE", "MEI", "SA", "ME", "ATA"] 
     },
     {   
         "id": "50",
@@ -460,7 +460,7 @@
         "pe": "Direito",
         "clube": "Real Madrid",
         "campeonato": "La Liga",
-        "posicao": ["PTE", "ME", "SA"] 
+        "posicao": ["PTE", "ME", "SA", "ATA"] 
     },
     {   
         "id": "52",
